@@ -1,0 +1,2 @@
+Dies ist ein Projekt welches zur Einführung in die Programmiersprache Python mithilfe des Kurses "Automate the boring stuff with python" gilt.
+Aktuell ist es nur möglich gegen eine "KI" zu spielen, diese ist auch nicht besonders clever. 
